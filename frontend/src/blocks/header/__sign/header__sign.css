@@ -1,0 +1,12 @@
+.header__sign {
+	text-decoration: none;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 1.21;
+	transition: opacity .3s linear;
+	color: #FFFFFF;
+}
+
+.header__sign:hover {
+	opacity: 0.6;
+}

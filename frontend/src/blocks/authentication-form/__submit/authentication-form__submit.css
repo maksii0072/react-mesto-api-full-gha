@@ -1,0 +1,25 @@
+.authentication-form__submit {
+	margin: 186px 0 0;
+	width: 358px;
+	height: 50px;
+	background-color: #FFFFFF;
+	color: #000000;
+	border-radius: 2px;
+	font-size: 18px;
+	line-height: 1.22;
+	font-weight: 400;
+	text-align: center;
+}
+
+.authentication-form__submit:hover {
+	opacity: 0.85;
+}
+
+@media screen and (max-width: 767px) {
+	.authentication-form__submit {
+		width: 238px;
+		height: 46px;
+		font-size: 14px;
+		line-height: 1.21;
+	}
+}

@@ -1,0 +1,12 @@
+.button__like {
+	width: 22px;
+	height: 19px;
+	max-width: 100%;
+	margin-bottom: 3px;
+	background: url(../../../images/Vector_heart.svg);
+	background-size: 22px 19px;
+}
+
+.button__like:hover {
+	opacity: 0.5;
+}

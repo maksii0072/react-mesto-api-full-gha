@@ -1,0 +1,17 @@
+.button_type_edit {
+	width: 24px;
+	height: 24px;
+	border: 1px solid;
+	margin-top: 15px;
+	background-image: url(../../../images/Vector_edit-btn.svg);
+	background-size: 10px;
+}
+
+@media screen and (max-width: 767px) {
+	.button_type_edit {
+		height: 18px;
+		width: 18px;
+		margin-top: 8px;
+		background-size: 7.5px;
+	}
+}

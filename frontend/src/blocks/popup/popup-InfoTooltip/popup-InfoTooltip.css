@@ -1,0 +1,7 @@
+.popup-InfoTooltip {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	box-sizing: border-box;
+	padding: 60px 36px;
+}

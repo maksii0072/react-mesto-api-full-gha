@@ -1,0 +1,14 @@
+.authentication-form__input {
+	padding: 6.5px 0;
+	box-sizing: border-box;
+	display: block;
+	outline: 0;
+	border: 0;
+	width: 100%;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 1.21;
+	color: #CCCCCC;
+	background-color: black;
+	border-bottom: 2px solid rgba(204, 204, 204, 1);
+}

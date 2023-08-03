@@ -1,0 +1,8 @@
+.button_type_avatar {
+	position: absolute;
+	top: 47px;
+	left: 47px;
+	width: 29px;
+	height: 29px;
+	background-image: url(../../../images/edit_avatar_icon.svg);
+}

@@ -1,0 +1,9 @@
+.authentication-form__content {
+	display: flex;
+	flex-direction: column;
+}
+
+
+@media screen and (max-width: 767px) {
+	.authentication-form__content {}
+}

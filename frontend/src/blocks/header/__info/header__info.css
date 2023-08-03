@@ -1,0 +1,5 @@
+.header__info {
+	display: flex;
+	padding-top: 6px;
+	max-height: 22px;
+}
